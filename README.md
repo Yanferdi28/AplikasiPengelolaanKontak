@@ -162,6 +162,7 @@ private void importContactsFromCSV() {
 
 ## 6. Tampilan Saat di Jalankan
 
+![image](https://github.com/user-attachments/assets/8b364cc4-fd7e-4233-8763-b1d142078f3a)
 
 
 ## 7. Indikator Penilaian
